@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avinashbarnwal
-- 👀 I’m interested in Generative AI, Data Science, Machine Learning, and Finance.
-- 🌱 I’m currently learning Generative AI.
+- 👀 I’m interested in Finance and AI
+- 🌱 I’m currently building lending products using AI.
 - 💞️ I’m looking to collaborate on Interpretable Machine Learning and Generative AI.
 - 📫 How to reach me avinashbarnwal123@gamail.com
 
