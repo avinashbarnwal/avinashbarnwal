@@ -1,6 +1,5 @@
 ## Hi, I'm Avinash 👋
 
-**Head of Analytics & Data Science at [Autocash.ai](https://autocash.ai)** · Bangalore
 
 I build AI for finance: credit risk, lending, and treasury / cash-management tools for CFOs. My background is in statistical machine learning, with a focus on survival analysis, interpretable models, and gradient boosting.
 
